@@ -13,13 +13,17 @@ After each sprint, release, or important milestone. Also after incidents.
 - Follow-up on previous action items
 
 ## Running a Retrospective
-- Timebox: 45–75 minutes depending on team size
+- **Facilitator**: Typically the Scrum Master, or Project Manager if no Scrum Master assigned
+- **Timebox**: 45–75 minutes depending on team size
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
+- Ensure all voices are heard and psychological safety is maintained
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
-- Review outstanding actions in the weekly PM sync
+- **Scrum Master** tracks action item progress and follows up with owners
+- Review outstanding actions in the weekly PM sync or during sprint planning
+- Celebrate completed improvements in team meetings
 
 ## Example Action Item Template
 - Title:

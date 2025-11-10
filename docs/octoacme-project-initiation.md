@@ -20,14 +20,23 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Resource needs (team roles, rough effort estimate)
 
 ## Project One-pager Template
-- Project name:
-- Problem statement:
-- Objective / Goal (SMART):
-- Success metrics:
-- Primary stakeholders:
-- Suggested timeline / milestones:
-- Quick risks & dependencies:
-- Proposed team / roles:
+- **Project name**:
+- **Problem statement**:
+- **Objective / Goal (SMART)**:
+- **Success metrics**:
+- **Primary stakeholders**:
+- **Suggested timeline / milestones**:
+- **Quick risks & dependencies**:
+- **Proposed team / roles**:
+  - Project Manager:
+  - Product Manager:
+  - Developers:
+  - QA Lead:
+  - Release Manager (if deployment complexity warrants):
+  - Business Analyst (if significant requirements discovery needed):
+  - Scrum Master (for agile delivery):
+  - UX/UI Designer (if user experience is a primary focus):
+  - Other specialists as needed:
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
@@ -41,3 +50,11 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+## Escalation Path
+During initiation, if decisions or approvals are blocked:
+- **Level 1**: Project Manager works with Product Manager to resolve
+- **Level 2**: Escalate to Sponsor or executive stakeholder
+- **Level 3**: Steering committee or leadership team for strategic decisions
+
+For role-specific escalations, see [Risk Management & Communication](octoacme-risks-and-communication.md).
